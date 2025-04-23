@@ -1,13 +1,4 @@
-'''******************************************************************************
-  * @file      :  
-  * @brief     :  
-  * @Author    : M Rajagopalaswamy (m.rajagopalaswamy@vvdntech.in)
-  * @Copyright : (c) 2021 , VVDN Technologies Pvt. Ltd.
-  *              Permission is hereby granted to everyone in VVDN Technologies
-  *              to use the Software without restriction, including without
-  *              limitation the rights to use, copy, modify, merge, publish,
-  *              distribute, distribute with modifications.
-  ****************************************************************************'''
+
 import customtkinter 
 from ssid_rssi import *
 from tkinter import StringVar
