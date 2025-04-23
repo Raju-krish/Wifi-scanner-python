@@ -1,14 +1,5 @@
-'''******************************************************************************
-  * @file      : ssid-rssi-backend
-  * @brief     : This  script fetches all available SSID's with its RSSI.
-                 and stored in dictionary which will used by tkinter script to show in GUI
-  * @Author    : M Rajagopalaswamy (m.rajagopalaswamy@vvdntech.in)
-  * @Copyright : (c) 2021 , VVDN Technologies Pvt. Ltd.
-  *              Permission is hereby granted to everyone in VVDN Technologies
-  *              to use the Software without restriction, including without
-  *              limitation the rights to use, copy, modify, merge, publish,
-  *              distribute, distribute with modifications.
-  ****************************************************************************'''
+
+
 
 import subprocess
 
